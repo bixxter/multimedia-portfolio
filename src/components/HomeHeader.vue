@@ -4,6 +4,14 @@
       class="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-screen lg:items-center"
     >
       <div class="mx-auto max-w-xl text-center">
+        <!-- avatar  -->
+        <div class="mb-8">
+          <img
+            class="w-32 h-32 rounded-full mx-auto"
+            src="https://avatars.githubusercontent.com/u/57175411?s=400&u=209e0dfc4610db3a508f519a61869d817f5bd037&v=4"
+            alt="Asatulla"
+          />
+        </div>
         <h1 class="text-3xl font-extrabold sm:text-5xl transition-all">
           {{ greatingText }}, я Асатулла
           <strong class="font-extrabold text-red-700 sm:block">
