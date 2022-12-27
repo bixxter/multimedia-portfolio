@@ -6,8 +6,8 @@
       </h2>
     </div>
 
-    <div class="flex space-evenly m-12">
-      <article class="group mr-10">
+    <div class="flex flex-col md:flex-row space-evenly md:m-12">
+      <article class="group md:mr-10">
         <img
           alt="Lava"
           src="https://i.ibb.co/m9WCQ7G/mecourse.png"
@@ -30,7 +30,7 @@
           </p>
         </div>
       </article>
-      <article class="group mr-10">
+      <article class="group md:mr-10">
         <a href="https://ibb.co/h9nWQrM">
           <img
             src="https://i.ibb.co/DW6Ccmb/aerobee.jpg"

@@ -214,8 +214,9 @@
 
       <div class="mt-12 text-center">
         <a
-          href="#"
+          href="https://www.linkedin.com/in/asatulla-dadabaev-090b35147/"
           class="mt-8 inline-flex items-center rounded border border-pink-600 bg-pink-600 px-8 py-3 text-white hover:bg-transparent focus:outline-none focus:ring active:text-pink-500"
+          target="_blank"
         >
           <span class="text-sm font-medium"> Найти меня тут </span>
 
